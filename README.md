@@ -15,6 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the project
 2. In CLI write `npm install`
 3. In CLI write `npm start`
+4. Now App will open in your browser automatically. if not then enter `http://localhost:3000/` in your browser.
+5. Now you will saw app like this 👇👇👇👇
 
 ### An Awesome Password Generator App
 To learn React and Java please mail me `developerport.co@gmail.com`
